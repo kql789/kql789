@@ -3,6 +3,7 @@
 I'm Unicorn_Kan,a new Software Engineer(Back Development).  
 - My hobbies are reading, basketball, running and movies. I am very happy to meet more IT practitioners.
 - :memo: My blog —>  [Unicorn_Blog_CSDN](https://blog.csdn.net/weixin_56175042)
+- :recycle: My_Gitee —>[Unicorn_Gitee](https://gitee.com/kql789)
 - :monocle_face: My E-mail: kql789@126.com
 - My Power Tools:
 
