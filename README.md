@@ -13,7 +13,7 @@ I'm Unicorn_Kan,a new Software Engineer(Back Development).
      ![Static Badge](https://img.shields.io/badge/%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-Git-green)
 
 
-![Metrics](https://metrics.lecoq.io/kql789?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)  
+ 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kql789&show_icons=true&theme=dark&count_private=true)
 
